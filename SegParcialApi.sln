@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegParcialApi", "SegParcialApi\SegParcialApi.csproj", "{5640F00D-3DD3-4212-9543-6F517F77E9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5640F00D-3DD3-4212-9543-6F517F77E9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5640F00D-3DD3-4212-9543-6F517F77E9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5640F00D-3DD3-4212-9543-6F517F77E9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5640F00D-3DD3-4212-9543-6F517F77E9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5385CA05-0B90-487B-9F09-FF3EA0B3A850}
+	EndGlobalSection
+EndGlobal
